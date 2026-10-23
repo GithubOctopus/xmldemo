@@ -1,6 +1,9 @@
 <NationalParks 
-    targetNamespace="https://githuboctopus.github.io/xmldemo"
-    xsi:schemaLocation="https://githuboctopus.github.io/xmldemo/NationalParks.xsd">
+    xmlns="https://githuboctopus.github.io/xmldemo"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://githuboctopus.github.io/xmldemo
+                        https://githuboctopus.github.io/xmldemo/NationalParks.xsd">
+
     <NationalPark Rating="4.9"> <!--Optional Attribute-->
         <Name>Grand Canyon</Name>
         <Phone>928-638-7496</Phone>
