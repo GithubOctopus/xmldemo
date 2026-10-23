@@ -68,7 +68,7 @@
         </Address>
     </NationalPark>
 
-    <NationalPark> <!--Optional Attribute-->
+    <NationalPark>
         <Name>Gates of the Arctic</Name>
         <Phone>907-459-3730</Phone>
         <Address NearestAirport="Fairbanks International"> 
