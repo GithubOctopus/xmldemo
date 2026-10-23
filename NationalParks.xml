@@ -17,4 +17,128 @@
             <Zip>86023</Zip> 
         </Address>
     </NationalPark>
+
+    <NationalPark>
+        <Name>Glacier</Name>
+        <Phone>406-888-7800</Phone>
+        <Address NearestAirport="Glacier Park International"> <!--Required Attribute-->
+            <Number>64</Number> 
+            <Street>Grinnell Drive</Street> 
+            <City>West Glacier</City> 
+            <State>MT</State> 
+            <Zip>59936</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark Rating="4.8"> <!--Optional Attribute-->
+        <Name>Yosemite</Name>
+        <Phone>209-372-0200</Phone>
+        <Phone>209-372-0826</Phone>
+        <Address NearestAirport="Fresno Yosemite International"> <!--Required Attribute-->
+            <Number>9035</Number> 
+            <Street>Village Dr</Street> 
+            <City>Yosemite</City> 
+            <State>CA</State> 
+            <Zip>95389</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark> <!--Optional Attribute-->
+        <Name>Big Bend</Name>
+        <Phone>432-477-2251</Phone>
+        <Address NearestAirport="Midland International"> <!--Required Attribute-->
+            <Number>1</Number> 
+            <Street>Panther Junction</Street> 
+            <City>Big Bend National Park</City> 
+            <State>TX</State> 
+            <Zip>79834</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark Rating="4.7"> <!--Optional Attribute-->
+        <Name>Congaree</Name>
+        <Phone>803-776-4396</Phone>
+        <Phone>803-783-4241</Phone>
+        <Address NearestAirport="Columbia Metropolitan"> <!--Required Attribute-->
+            <Number>100</Number> 
+            <Street>National Park Road</Street> 
+            <City>Hopkins</City> 
+            <State>SC</State> 
+            <Zip>29061</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark> <!--Optional Attribute-->
+        <Name>Gates of the Arctic</Name>
+        <Phone>907-459-3730</Phone>
+        <Address NearestAirport="Fairbanks International"> <!--Required Attribute-->
+            <Number>4175</Number> 
+            <Street>Geist Road</Street> 
+            <City>Fairbanks</City> 
+            <State>AK</State> 
+            <Zip>99709</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark"> <!--Optional Attribute-->
+        <Name>Rocky Mountain</Name>
+        <Phone>970-586-1206</Phone>
+        <Phone>970-586-1222</Phone>
+        <Address NearestAirport="Denver International"> <!--Required Attribute-->
+            <Number>1000</Number> 
+            <Street>US Hwy 36</Street> 
+            <City>Estes Park</City> 
+            <State>CO</State> 
+            <Zip>80517</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark> <!--Optional Attribute-->
+        <Name>Everglades</Name>
+        <Phone>305-242-7700</Phone>
+        <Address NearestAirport="Miami International"> <!--Required Attribute-->
+            <Number>40001</Number> 
+            <Street>State Hwy 9336</Street> 
+            <City>Homestead</City> 
+            <State>FL</State> 
+            <Zip>33034</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark Rating="4.8"> <!--Optional Attribute-->
+        <Name>Zion</Name>
+        <Phone>435-772-3256</Phone>
+        <Phone>888-297-2757</Phone>
+        <Address NearestAirport="St. George Regional"> <!--Required Attribute-->
+            <Number>1</Number> 
+            <Street>Zion Park Blvd</Street> 
+            <City>Sprintdale</City> 
+            <State>UT</State> 
+            <Zip>84767-1099</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark> <!--Optional Attribute-->
+        <Name>Acadia</Name>
+        <Phone>207-288-3338</Phone>
+        <Address NearestAirport="Hancock County-Bar Harbor"> <!--Required Attribute-->
+            <Number>20</Number> 
+            <Street>McFarland Hill Drive</Street> 
+            <City>Bar Harbor</City> 
+            <State>ME</State> 
+            <Zip>04609-0177</Zip> 
+        </Address>
+    </NationalPark>
+
+    <NationalPark Rating="4.7"> <!--Optional Attribute-->
+        <Name>Death Valley</Name>
+        <Phone>760-786-3200</Phone>
+        <Address NearestAirport="Harry Reid"> <!--Required Attribute-->
+            <Number>190</Number> 
+            <Street>California Highway 190</Street> 
+            <City>Death Valley</City> 
+            <State>CA</State> 
+            <Zip>92328</Zip> 
+        </Address>
+    </NationalPark>
 </NationalParks>
