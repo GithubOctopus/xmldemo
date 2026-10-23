@@ -43,7 +43,7 @@
         </Address>
     </NationalPark>
 
-    <NationalPark> <!--Optional Attribute-->
+    <NationalPark>
         <Name>Big Bend</Name>
         <Phone>432-477-2251</Phone>
         <Address NearestAirport="Midland International"> 
